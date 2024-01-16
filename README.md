@@ -1,5 +1,5 @@
 # Sorting_visualizer
-It was one of my minor projects done with my Group.
+It was one of my minor projects done for B.TECH CSE in UPES.
 •Added Insertion Sort,Bubble Sort,Selection Sort,Quick Sort,Heap Sort,Cocktail Sort,Shell Sort,Merge Sort,Brick Sort,Pancake Sort,Gnome Sort,Comb Sort,Bitonic Sort.
 •Added Applications,Time complexity of all sort.
 •Added Shuffle to create a new/randomized dataset.
